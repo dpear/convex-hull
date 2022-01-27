@@ -1,0 +1,4 @@
+name: nested-classification
+
+dependencies:
+  - pandas
