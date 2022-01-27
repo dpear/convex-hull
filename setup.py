@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="q2-nested-classification",
-    version='ignore for now',
+    version='0.0.1',
     #cmdclass=versioneer.get_cmdclass(),
     packages=find_packages(),
     url="https://qiime2.org",
